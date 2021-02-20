@@ -4,6 +4,8 @@ Este projeto foi desenvolvido durante o **Bootcamp de Data Science Aplicada (Alu
 
 Como proposta inicial de desafio, foi pedido uma análise referente a base de dados de produção hospitalar, seja número de internação, óbito, AIH ou taxa de mortalidade. Entretanto, o DATASUS acabou ficando fora do ar e, então, acabamos utilizando os dados do projeto Brasil.io, sobre os **casos de COVID-19** no Brasil.
 
+- Análise completa em "**covid_19_brasil.ipynb**".
+
 Observação: para melhorar a visualização de algumas imagens, por conta da resolução que foi comprometida, recomendo clicar em "Open in Colab", no começo do *notebook*.
 
 # Contexto
